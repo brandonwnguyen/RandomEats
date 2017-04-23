@@ -15,9 +15,9 @@ class HomeViewController: UIViewController {
     @IBOutlet weak var Output: UILabel!
     @IBOutlet weak var Input: UITextField!
     
-    @IBAction func Randomize(_ sender: Any) {
+    @IBAction func Randomize(_ sender: UIButton) {
         
-          Output.text = "Hello, " + (Input.text)!
+        performSegue(withIdentifier: "Randomize", sender: self)
     }
     
     
