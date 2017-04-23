@@ -12,6 +12,7 @@ import MapKit
 class ViewController: UIViewController {
 
     
+
     @IBOutlet weak var mapView: MKMapView!
     let regionRadius: CLLocationDistance = 1000
     func centerMapOnLocation(location: CLLocation) {
