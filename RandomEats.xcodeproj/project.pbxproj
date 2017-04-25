@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3359BBA11EB0061B00F1D291 /* SigninViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3359BBA01EB0061B00F1D291 /* SigninViewController.swift */; };
+		3359BBA31EB00FD900F1D291 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3359BBA21EB00FD900F1D291 /* MainViewController.swift */; };
 		336A692E1EAFEEA1000AF2EA /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336A692D1EAFEEA1000AF2EA /* SignupViewController.swift */; };
 		3F8E900A1EAC34C100BE3BBA /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8E90091EAC34C100BE3BBA /* HomeViewController.swift */; };
 		94D3CDA41EAC246900AAE7FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D3CDA31EAC246900AAE7FD /* AppDelegate.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		3359BBA01EB0061B00F1D291 /* SigninViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SigninViewController.swift; sourceTree = "<group>"; };
+		3359BBA21EB00FD900F1D291 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		336A692D1EAFEEA1000AF2EA /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
 		3F8E90091EAC34C100BE3BBA /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = ../HomeViewController.swift; sourceTree = "<group>"; };
 		94D3CDA01EAC246900AAE7FD /* RandomEats.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RandomEats.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -69,6 +71,7 @@
 				94D3CDAF1EAC246900AAE7FD /* Info.plist */,
 				336A692D1EAFEEA1000AF2EA /* SignupViewController.swift */,
 				3359BBA01EB0061B00F1D291 /* SigninViewController.swift */,
+				3359BBA21EB00FD900F1D291 /* MainViewController.swift */,
 			);
 			path = RandomEats;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				94D3CDA61EAC246900AAE7FD /* ViewController.swift in Sources */,
 				94D3CDA41EAC246900AAE7FD /* AppDelegate.swift in Sources */,
 				3F8E900A1EAC34C100BE3BBA /* HomeViewController.swift in Sources */,
+				3359BBA31EB00FD900F1D291 /* MainViewController.swift in Sources */,
 				336A692E1EAFEEA1000AF2EA /* SignupViewController.swift in Sources */,
 				3359BBA11EB0061B00F1D291 /* SigninViewController.swift in Sources */,
 			);
