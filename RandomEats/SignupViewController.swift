@@ -1,5 +1,5 @@
 //
-//  TextViewController.swift
+//  SignupViewController.swift
 //  RandomEats
 //
 //  Created by Hun Tun Zaw on 4/25/17.
