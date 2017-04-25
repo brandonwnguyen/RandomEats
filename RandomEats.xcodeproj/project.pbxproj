@@ -11,6 +11,10 @@
 		3359BBA31EB00FD900F1D291 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3359BBA21EB00FD900F1D291 /* MainViewController.swift */; };
 		336A692E1EAFEEA1000AF2EA /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336A692D1EAFEEA1000AF2EA /* SignupViewController.swift */; };
 		3F8E900A1EAC34C100BE3BBA /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8E90091EAC34C100BE3BBA /* HomeViewController.swift */; };
+		3F8E900E1EB015FE00BE3BBA /* HistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8E900D1EB015FE00BE3BBA /* HistoryViewController.swift */; };
+		3F8E90101EB0161000BE3BBA /* PersonalReviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8E900F1EB0161000BE3BBA /* PersonalReviewViewController.swift */; };
+		3F8E90121EB0161F00BE3BBA /* ResultsListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8E90111EB0161F00BE3BBA /* ResultsListViewController.swift */; };
+		3F8E90141EB0167600BE3BBA /* PreferencesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8E90131EB0167600BE3BBA /* PreferencesViewController.swift */; };
 		94D3CDA41EAC246900AAE7FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D3CDA31EAC246900AAE7FD /* AppDelegate.swift */; };
 		94D3CDA61EAC246900AAE7FD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D3CDA51EAC246900AAE7FD /* ViewController.swift */; };
 		94D3CDA91EAC246900AAE7FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94D3CDA71EAC246900AAE7FD /* Main.storyboard */; };
@@ -23,6 +27,10 @@
 		3359BBA21EB00FD900F1D291 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		336A692D1EAFEEA1000AF2EA /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
 		3F8E90091EAC34C100BE3BBA /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = ../HomeViewController.swift; sourceTree = "<group>"; };
+		3F8E900D1EB015FE00BE3BBA /* HistoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HistoryViewController.swift; sourceTree = "<group>"; };
+		3F8E900F1EB0161000BE3BBA /* PersonalReviewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonalReviewViewController.swift; sourceTree = "<group>"; };
+		3F8E90111EB0161F00BE3BBA /* ResultsListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultsListViewController.swift; sourceTree = "<group>"; };
+		3F8E90131EB0167600BE3BBA /* PreferencesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreferencesViewController.swift; sourceTree = "<group>"; };
 		94D3CDA01EAC246900AAE7FD /* RandomEats.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RandomEats.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94D3CDA31EAC246900AAE7FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		94D3CDA51EAC246900AAE7FD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +74,10 @@
 				3F8E90091EAC34C100BE3BBA /* HomeViewController.swift */,
 				94D3CDA51EAC246900AAE7FD /* ViewController.swift */,
 				94D3CDA71EAC246900AAE7FD /* Main.storyboard */,
+				3F8E90131EB0167600BE3BBA /* PreferencesViewController.swift */,
+				3F8E900D1EB015FE00BE3BBA /* HistoryViewController.swift */,
+				3F8E900F1EB0161000BE3BBA /* PersonalReviewViewController.swift */,
+				3F8E90111EB0161F00BE3BBA /* ResultsListViewController.swift */,
 				94D3CDAA1EAC246900AAE7FD /* Assets.xcassets */,
 				94D3CDAC1EAC246900AAE7FD /* LaunchScreen.storyboard */,
 				94D3CDAF1EAC246900AAE7FD /* Info.plist */,
@@ -150,10 +162,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				94D3CDA61EAC246900AAE7FD /* ViewController.swift in Sources */,
+				3F8E90121EB0161F00BE3BBA /* ResultsListViewController.swift in Sources */,
 				94D3CDA41EAC246900AAE7FD /* AppDelegate.swift in Sources */,
+				3F8E90101EB0161000BE3BBA /* PersonalReviewViewController.swift in Sources */,
 				3F8E900A1EAC34C100BE3BBA /* HomeViewController.swift in Sources */,
+				3F8E90141EB0167600BE3BBA /* PreferencesViewController.swift in Sources */,
 				3359BBA31EB00FD900F1D291 /* MainViewController.swift in Sources */,
 				336A692E1EAFEEA1000AF2EA /* SignupViewController.swift in Sources */,
+				3F8E900E1EB015FE00BE3BBA /* HistoryViewController.swift in Sources */,
 				3359BBA11EB0061B00F1D291 /* SigninViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
