@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		336A692E1EAFEEA1000AF2EA /* TextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336A692D1EAFEEA1000AF2EA /* TextViewController.swift */; };
 		3F8E900A1EAC34C100BE3BBA /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8E90091EAC34C100BE3BBA /* HomeViewController.swift */; };
 		94D3CDA41EAC246900AAE7FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D3CDA31EAC246900AAE7FD /* AppDelegate.swift */; };
 		94D3CDA61EAC246900AAE7FD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D3CDA51EAC246900AAE7FD /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		336A692D1EAFEEA1000AF2EA /* TextViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextViewController.swift; sourceTree = "<group>"; };
 		3F8E90091EAC34C100BE3BBA /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = ../HomeViewController.swift; sourceTree = "<group>"; };
 		94D3CDA01EAC246900AAE7FD /* RandomEats.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RandomEats.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94D3CDA31EAC246900AAE7FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				94D3CDAA1EAC246900AAE7FD /* Assets.xcassets */,
 				94D3CDAC1EAC246900AAE7FD /* LaunchScreen.storyboard */,
 				94D3CDAF1EAC246900AAE7FD /* Info.plist */,
+				336A692D1EAFEEA1000AF2EA /* TextViewController.swift */,
 			);
 			path = RandomEats;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				94D3CDA61EAC246900AAE7FD /* ViewController.swift in Sources */,
 				94D3CDA41EAC246900AAE7FD /* AppDelegate.swift in Sources */,
 				3F8E900A1EAC34C100BE3BBA /* HomeViewController.swift in Sources */,
+				336A692E1EAFEEA1000AF2EA /* TextViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
