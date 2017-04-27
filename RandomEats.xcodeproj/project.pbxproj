@@ -10,6 +10,7 @@
 		3359BBA11EB0061B00F1D291 /* SigninViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3359BBA01EB0061B00F1D291 /* SigninViewController.swift */; };
 		3359BBA31EB00FD900F1D291 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3359BBA21EB00FD900F1D291 /* MainViewController.swift */; };
 		336A692E1EAFEEA1000AF2EA /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336A692D1EAFEEA1000AF2EA /* SignupViewController.swift */; };
+		3391434E1EB1B985008BF006 /* YelpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3391434D1EB1B985008BF006 /* YelpViewController.swift */; };
 		3F8E900A1EAC34C100BE3BBA /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8E90091EAC34C100BE3BBA /* HomeViewController.swift */; };
 		3F8E900E1EB015FE00BE3BBA /* HistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8E900D1EB015FE00BE3BBA /* HistoryViewController.swift */; };
 		3F8E90101EB0161000BE3BBA /* PersonalReviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8E900F1EB0161000BE3BBA /* PersonalReviewViewController.swift */; };
@@ -26,6 +27,7 @@
 		3359BBA01EB0061B00F1D291 /* SigninViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SigninViewController.swift; sourceTree = "<group>"; };
 		3359BBA21EB00FD900F1D291 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		336A692D1EAFEEA1000AF2EA /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
+		3391434D1EB1B985008BF006 /* YelpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YelpViewController.swift; sourceTree = "<group>"; };
 		3F8E90091EAC34C100BE3BBA /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = ../HomeViewController.swift; sourceTree = "<group>"; };
 		3F8E900D1EB015FE00BE3BBA /* HistoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HistoryViewController.swift; sourceTree = "<group>"; };
 		3F8E900F1EB0161000BE3BBA /* PersonalReviewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonalReviewViewController.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				336A692D1EAFEEA1000AF2EA /* SignupViewController.swift */,
 				3359BBA01EB0061B00F1D291 /* SigninViewController.swift */,
 				3359BBA21EB00FD900F1D291 /* MainViewController.swift */,
+				3391434D1EB1B985008BF006 /* YelpViewController.swift */,
 			);
 			path = RandomEats;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3391434E1EB1B985008BF006 /* YelpViewController.swift in Sources */,
 				94D3CDA61EAC246900AAE7FD /* ViewController.swift in Sources */,
 				3F8E90121EB0161F00BE3BBA /* ResultsListViewController.swift in Sources */,
 				94D3CDA41EAC246900AAE7FD /* AppDelegate.swift in Sources */,
